@@ -1,0 +1,11 @@
+export { HeroSection } from "./HeroSection";
+export { ProblemSection } from "./ProblemSection";
+export { DifferentSection } from "./DifferentSection";
+export { AudienceSection } from "./AudienceSection";
+export { RoadmapSection } from "./RoadmapSection";
+export { ModulesSection } from "./ModulesSection";
+export { ResultsSection } from "./ResultsSection";
+export { TechStackSection } from "./TechStackSection";
+export { ObjectiveSection } from "./ObjectiveSection";
+export { CtaSection } from "./CtaSection";
+export { Footer } from "./Footer";
